@@ -1,4 +1,4 @@
 # thinkful-ajax
 Thinkful AJAX Exercise
 
-UNDER CONSTRUCTION!!!   <insert retro construction dude icon here>
+UNDER CONSTRUCTION!!!   (insert retro construction dude icon here)
