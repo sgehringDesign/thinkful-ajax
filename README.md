@@ -1,3 +1,3 @@
 #Thinkful.com - AJAX Exercise
 
-UNDER CONSTRUCTION!!!   (insert retro construction dude icon here)
+UNDER CONSTRUCTION!!!   (insert retro construction icon here)
